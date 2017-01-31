@@ -3,7 +3,7 @@ This is .Net Core implementation of [Pact](https://github.com/realestate-com-au/
 
 ## Motivation
 
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+This repository borned when Gaurav was looking for ```Consumer-driven contract``` tool in .net core. While writing book [Microservices for .net](https://www.packtpub.com/web-development/microservices-net)
 
 ## Installation
 
@@ -24,6 +24,12 @@ MIT
 ## Release notes
 
 Currently `Pact.Net Core` is in initial release.
+
+## Collaborators
+
+This happened when two similar minds come together for some solution.
+* [Gaurav Kumar Arora](https://github.com/garora)
+* [Lalit Kale](https://github.com/lalitkale)
 
 ## Miscellanious
 
