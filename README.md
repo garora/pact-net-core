@@ -25,12 +25,6 @@ MIT
 
 Currently `Pact.Net Core` is in initial release.
 
-## Collaborators
-
-This happened when two similar minds come together for some solution.
-* [Gaurav Kumar Arora](https://github.com/garora)
-* [Lalit Kale](https://github.com/lalitkale)
-
 ## Miscellanious
 
 Suggestions are welcomed!
